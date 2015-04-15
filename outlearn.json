@@ -1,6 +1,6 @@
 {
   "olpVersion" : "0.2",
-  "name" : "OWASP-Top-10",
+  "name" : "security-test",
   "version" : "0.1",
   "title" : "OWASP Top 10",
   "description": "This course focuses on the most common security defects identified by the Open Web Application Security Project (OWASP)",
