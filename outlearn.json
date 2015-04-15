@@ -3,11 +3,9 @@
   "name" : "security-test",
   "version" : "0.1",
   "title" : "OWASP Top 10",
-  "description": "This course focuses on the most common security defects identified by the Open Web Application Security Project (OWASP)",
+  "description": "This course focuses on the most common security defects identified by the Open Web Application Security Project (OWASP).",
   "homepage" : "https://codiscope.com",
-  "author" : "Codiscope",
   "license" : "CC BY-ND",
-  "contact" : "tim@codiscope.com",
   "sections" : [
     {
       "title": "Welcome to the OWASP Top 10",
